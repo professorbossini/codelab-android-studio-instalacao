@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-07-08T03:34:07Z",
+  "id": "android-studio-instalacao",
+  "duration": 24,
+  "title": "Android Studio",
+  "authors": "Rodrigo Bossini",
+  "summary": "Neste codelab, você fará a instalação do IDE Android Studio, incluindo as ferramentas que viabilizam o desenvolvimento para a plataforma Android",
+  "source": "1AyQsJwcjo1zxLOb5egf5oPiGfRYK1xc4-hW83MZaqSY",
+  "theme": "android",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/professorbossini/codelab-android-studio-instalacao/issues",
+  "url": "android-studio-instalacao"
+}
