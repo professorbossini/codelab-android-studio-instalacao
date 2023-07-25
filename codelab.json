@@ -3,8 +3,8 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2023-07-09T01:41:12Z",
-  "id": "android-studio-instalacao",
+  "updated": "2023-07-25T06:04:45Z",
+  "id": "codelab-android-studio-instalacao",
   "duration": 14,
   "title": "Android Studio - Instalação",
   "authors": "Rodrigo Bossini",
@@ -21,5 +21,5 @@
     "web"
   ],
   "feedback": "https://github.com/professorbossini/codelab-android-studio-instalacao/issues",
-  "url": "android-studio-instalacao"
+  "url": "codelab-android-studio-instalacao"
 }
